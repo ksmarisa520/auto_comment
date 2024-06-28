@@ -4,7 +4,7 @@
 
 支持评价晒单（带两张图），追评，服务评价，支持AI生成评价内容
 
-青龙拉库命令 ql repo https://github.com/6dylan6/auto_comment.git "jd_" "" "jdspider"
+青龙拉库命令 ql repo https://github.com/ksmarisa520/auto_comment.git "jd_" "" "jdspider"
 
 如果运行报依赖错误，运行评价依赖安装任务，没有问题不要运行
 
@@ -15,6 +15,7 @@ www的那个地址抓CK，登录后F12点到network，不要用命令document.co
 有问题欢迎提pr、issue
 
 ## 更新日志：
+2024/6/28 修复2024/Jun后无法评论的问题
 
 2022/11/6 新增多账号； 报错不停止运行；带两个图评价晒单；倒序评价，优先比较老的订单
 
