@@ -15,7 +15,7 @@ www的那个地址抓CK，登录后F12点到network，不要用命令document.co
 有问题欢迎提pr、issue
 
 ## 更新日志：
-2024/6/28 修复2024/Jun后无法评论的问题，结果测试中，参考https://github.com/6dylan6/auto_comment/issues/56
+2024/6/28 修复2024/Jun后无法评论的问题，结果测试中，参考https://github.com/6dylan6/auto_comment/issues/56    https://github.com/6dylan6/auto_comment/issues/29#issuecomment-1602022223
 
 2022/11/6 新增多账号； 报错不停止运行；带两个图评价晒单；倒序评价，优先比较老的订单
 
